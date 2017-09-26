@@ -1,0 +1,24 @@
+{
+  "name": "lab02",
+  "version": "1.0.0",
+  "description": "by Chris Minnick",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melpst/modern-js-training.git"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "javascript"
+  ],
+  "author": "Jitlada Supreeyaporn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melpst/modern-js-training/issues"
+  },
+  "homepage": "https://github.com/melpst/modern-js-training#readme"
+}
